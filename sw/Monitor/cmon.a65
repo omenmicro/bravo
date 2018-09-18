@@ -76,6 +76,12 @@ INIT:
             PHP     
             PLA     
             STA     PREG 
+            
+            ;ACIA init
+            LDA     #SCTL_V 
+            STA     SCTL 
+            LDA     #SCMD_V 
+            STA     SCMD 
 
 MON:        CLD     
 M1:         JSR     OUTCR 
