@@ -7,6 +7,8 @@ As-easy-as-possible, but still expandable single board computer with 65C02 CPU.
 [Essential ICs on AliExpress](https://alitronik.com/omen-bravo-pack/)
 [Essential ICs on eBay](https://alitronik.com/omen-bravo-pack-ebay/)
 
+[BOM - Needed parts](./BOM.md)
+
 ### Issue 4 is available
 
 Issue 3 adds a 6522 VIA circuit. It features:
