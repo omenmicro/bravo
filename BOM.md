@@ -1,4 +1,4 @@
-OMEN Bravo BOM:
+[OMEN Bravo](README.md) BOM:
 
 - CPU 65C02 (R65C02 or equivalent type)
 - RAM 32kx8 (62256 or equivalent)
