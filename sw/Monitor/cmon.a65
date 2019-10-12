@@ -510,6 +510,8 @@ NODATAIN:
             CLC     ; Carry clear if no key pressed
             RTS     
 
+            .include patreon.a65
+
             .ORG    $FFFA 
 
 LNMI:               
