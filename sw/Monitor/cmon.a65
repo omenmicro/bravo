@@ -22,6 +22,8 @@
 
 
             .ENGINE bravo 
+            .binfrom $e000
+            .binto $ffff
 
 BEGIN       EQU     $fd00 
 
